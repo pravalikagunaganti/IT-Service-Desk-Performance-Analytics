@@ -1,11 +1,12 @@
 # IT Service Desk Performance & Operations Analytics
 
-**Python | MySQL | Power BI**
+### 🛠️ Tech Stack
+
+**Python (Pandas) • MySQL • Power BI (DAX)**
 
 > Where does service-desk SLA performance break down, and what should an operations team investigate first?
 
 ---
-
 ## Snapshot
 
 | Tickets analyzed | Resolution SLA breach | Highest category breach | Reopened-ticket breach |
