@@ -16,7 +16,7 @@
 - **Highest-breach categories:** Payments & Checkout (89.3%) and API Integrations (77.8%)
 - **Reopened vs non-reopened tickets:** 87.6% vs 51.2% breach rate
 
-![Dashboard](Service%20desk%20Dashboard.png)
+![Dashboard](PowerBI/Dashboard-.png)
 
 ---
 
