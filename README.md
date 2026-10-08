@@ -168,7 +168,7 @@ IT-Service-Desk-Performance-Analytics/
 ├── SQL/
 │   └── service_desk_analysis.sql
 ├── PowerBI/
-│   ├── dashboard.png
+│   ├── Dashboard-.png
 │   └── IT_Service_Desk_Analytics.pbix
 └── README.md
 ```
